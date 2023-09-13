@@ -1,12 +1,6 @@
-## Hi there 👋
+## 👋👋👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ Группа с открытым исходным кодом предназначенная для публикаций разработок студента МФЮА
+🌈 Принять участие в разработках может любой желающий студент обратившись по контактным данным в профиле группы
+🍿 Группа создана по инициативе студента и не поддерживается представителями образовательной организации МФЮА
+👩‍💻 [Сведения об образовательной организации](https://www.mfua.ru/sveden/)
